@@ -7,7 +7,7 @@ my vimrc
 + fzf
 
 # Plug
-```
+```vim
 Plug 'glepnir/dashboard-nvim'
 Plug 'itchyny/lightline.vim'                  "statusline
 Plug 'honza/vim-snippets'                     "snippets
