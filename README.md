@@ -63,3 +63,27 @@ nnoremap <BackSpace> :nohl<CR>
 "               i<C-t>          列表降级
 "               i<C-d>          列表升级
 ```
+
+# path
+```
+/home/dd/.config/nvim/
+├── UltiSnips
+│   └── startify.snippets
+├── init.vim -> /home/dd/.local/vim/vimrc
+├── mysnippets
+│   ├── markdown.snippets
+│   └── 新建文件夹
+│       ├── markdown.snippets
+│       ├── python.snippets
+│       ├── pythonutil.py
+│       ├── snippets.snippets
+│       ├── temp_markdown.snippets
+│       ├── tex.snippets
+│       └── vim.snippets
+└── vim -> /home/dd/.local/vim
+
+/home/dd/.local/share/nvim/site/autoload/
+└── plug.vim
+
+0 directories, 1 file
+```
