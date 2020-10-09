@@ -27,7 +27,7 @@ Plug 'liuchengxu/vim-which-key'
 ```
 
 # keys bind
-```
+```vim
 let mapleader="\<space>"
 nnoremap <Leader>fw :w!<CR>
 nnoremap <Leader>fq :qall<CR>
